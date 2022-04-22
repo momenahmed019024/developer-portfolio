@@ -43,3 +43,35 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience-item {
+    box-shadow: 10px 10px 80px rgb(225, 209, 65);
+    width: 40;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+
+
+}
+
+#web-developer {
+    border-image: linear-gradient(blue, cyan);
+    border-left: 8px solid;
+    border-image-slice: 1;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stop {
+    border-image: linear-gradient(red, blue);
+    border-left: 5px solid;
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
